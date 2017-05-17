@@ -1,0 +1,2 @@
+# BancoV3
+Continuação do programa Banco. Sugiro que dupliquem a pasta do Bancov2, renomeiem a pasta para Bancov3 e a classe principal também. Tarefa Crie um novo programa que utilizará as classes feitas para o Banco, anteriormente, Conta e ContaEspecial. Você deverá acrescentar suporte ao programa que possibilite criar mais de uma conta, utilizando listas (ArrayList ou LinkedList) para isso. Dê opção ao usuário escolher qual o tipo de conta que ele deseja criar e manipular, fique à vontade para construir seu menu para isso.
